@@ -18,7 +18,7 @@ The objective of this project is to build an end-to-end churn analysis system th
 - **Programming**: Python (Jupyter Notebook, Pandas, Scikit-learn)  
 - **Machine Learning Model**: Random Forest Classifier 🎛️📡💾  
 
----  
+
 
 ## 📂 Project Structure 📂  
 
@@ -56,7 +56,7 @@ The objective of this project is to build an end-to-end churn analysis system th
      ```
    - Evaluate the model and integrate predictions into Power BI 🤖📊🚀  
 
----
+
 
 ## 🚀 How to Run the Project 🚀  
 
@@ -76,7 +76,7 @@ The objective of this project is to build an end-to-end churn analysis system th
    - Train and evaluate the Random Forest model  
    - Export predictions and visualize in Power BI 🤖📉📊  
 
----
+
 
 ## 📊 Results & Insights 📊  
 - **Customer segmentation by demographics, account details, and location**  
@@ -101,7 +101,6 @@ vartakviditi08@gmail.com 🎨📩
 - Scikit-learn library for machine learning  
 - Open-source datasets for churn analysis 🎉📚🤝  
 
----
 
-Let me know if you need any modifications! 🚀😊
+
 

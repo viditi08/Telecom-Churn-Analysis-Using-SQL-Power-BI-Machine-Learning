@@ -102,6 +102,8 @@ vartakviditi08@gmail.com 🎨📩
 - Open-source datasets for churn analysis 🎉📚🤝  
 
 ![image](https://github.com/user-attachments/assets/c6123c07-8055-4fc0-b1b2-e46c03ece9dd)
+![image](https://github.com/user-attachments/assets/82f214ad-f575-483d-995d-03b7307cb3e9)
+
 
 
 

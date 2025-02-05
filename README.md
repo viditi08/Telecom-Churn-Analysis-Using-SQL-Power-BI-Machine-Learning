@@ -101,6 +101,7 @@ vartakviditi08@gmail.com 🎨📩
 - Scikit-learn library for machine learning  
 - Open-source datasets for churn analysis 🎉📚🤝  
 
+![image](https://github.com/user-attachments/assets/c6123c07-8055-4fc0-b1b2-e46c03ece9dd)
 
 
 
